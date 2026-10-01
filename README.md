@@ -138,3 +138,19 @@ Target variable: **median house value** in $100,000 units.
 
 This project uses a publicly available dataset included with scikit-learn.
 The code is released under the MIT License.
+
+## About This Project
+
+This project was built as part of the **IBM SkillsBuild - AICTE - BharatCares (CSRBOX) Machine Learning & Applied AI Internship Program 2026**.
+
+It was developed using **IBM Bob**, an AI-powered coding assistant, in VS Code. IBM Bob helped plan the project, generate the training script and the Streamlit frontend, and fix errors along the way.
+
+### How to Run
+
+1. Install the dependencies: `pip install -r requirements.txt`
+2. Train the model (this creates `model.joblib`): `python train.py`
+3. Start the app: `python -m streamlit run app.py`
+
+### Author
+
+Kashish - [GitHub](https://github.com/Kashish7714)
